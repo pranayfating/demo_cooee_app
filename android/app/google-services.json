@@ -1,0 +1,107 @@
+{
+  "project_info": {
+    "project_number": "661493055636",
+    "firebase_url": "https://nativchefsapp.firebaseio.com",
+    "project_id": "nativchefsapp",
+    "storage_bucket": "nativchefsapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:661493055636:android:ae60a74068581054c8f481",
+        "android_client_info": {
+          "package_name": "com.example.demo_cooee"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "661493055636-0ddcvglnm59rnejb9ie81pb7p9le3ic7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDbh-zVsDzMc0lBGQmNWPropxXp2bBRQw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "661493055636-0ddcvglnm59rnejb9ie81pb7p9le3ic7.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "661493055636-4pr8q60pfd7rvp8bbn1kav72r0382tsj.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.nativchefs.apple"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:661493055636:android:229011575f53a2e0",
+        "android_client_info": {
+          "package_name": "com.nativchefs.nativchefsapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "661493055636-1l4apr8fb1ekcvn6qdt1fiosqe93hifo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nativchefs.nativchefsapp",
+            "certificate_hash": "96cee697b39124ecfdde1ae83dd7a4c0445451ce"
+          }
+        },
+        {
+          "client_id": "661493055636-317pnodunb4lkl1bgmeadd9si5r3thb9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nativchefs.nativchefsapp",
+            "certificate_hash": "ae69c1b6ded34e1e858abd193535a9b3b9aa75f2"
+          }
+        },
+        {
+          "client_id": "661493055636-svoccqocru53mdb15h6rmslhpcnuqkso.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nativchefs.nativchefsapp",
+            "certificate_hash": "4efc984a4425afb1749ec730321dfb4950c17a67"
+          }
+        },
+        {
+          "client_id": "661493055636-0ddcvglnm59rnejb9ie81pb7p9le3ic7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDbh-zVsDzMc0lBGQmNWPropxXp2bBRQw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "661493055636-0ddcvglnm59rnejb9ie81pb7p9le3ic7.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "661493055636-4pr8q60pfd7rvp8bbn1kav72r0382tsj.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.nativchefs.apple"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
