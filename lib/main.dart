@@ -1,5 +1,8 @@
+import 'dart:collection';
+
 import 'package:cooee_plugin/cooee_plugin.dart';
 import 'package:flutter/material.dart';
+import 'package:cooee_plugin/cooee_plugin.dart';
 
 void main() {
   runApp(MyApp());
@@ -75,6 +78,12 @@ class _MyHomePageState extends State<MyHomePage> {
     // TODO: implement initState
     cooeePlugin.setCooeeInAppNotificationAction(inAppTriggered);
     super.initState();
+    try {
+      CooeePlugin.setCurrentScreen("CartPage");
+      CooeePlugin.sendEvent("Add To Cart", new Map<String, String>());
+    } on Exception {
+      print(Exception);
+    }
 
   }
 
